@@ -1,0 +1,11 @@
+###
+POST http://localhost:8080/abc
+Content-Type: application/json
+
+{
+  "name": "Ivan",
+  "description": null,
+  "age": 22,
+  "birthday": "1990-01-02",
+  "status": "DONE"
+}
